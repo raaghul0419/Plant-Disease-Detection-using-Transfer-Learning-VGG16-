@@ -1,2 +1,2 @@
-# Fashion-MNIST-Clothing-Identification-using-CNN
-Identify different fashion products using various best possible Deep Learning Models and compare their results to arrive at the best DL model
+# Plant Disease Detection using Transfer Learning (VGG16)
+Development of plant disease detection using Deep Learning techniques such as transfer learning can help the farmers who lack expertise and resources to hire the expert.
